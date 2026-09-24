@@ -1,14 +1,17 @@
-V3 - IA MAPAS MENTAIS INSTALADA + RODAPÉ DESTACADO + 700 QUESTÕES ÚNICAS
+V3.1 - BOTÃO ADICIONAR EDITAL CORRIGIDO NA INTERFACE DO ESQUELETO
 
-- Rodapé destacado: inicio | ESQUELETO | SIMULADO | PROGRESSO | MAPAS (verde #0F3D1F com borda amarela 4px, botão ativo amarelo com sombra)
-- Esqueleto profissional com 2 sub-abas: PDF CONCURSOS e DESOSSA EDITAL (botão adiciona PDF/TXT/DOC que abre dentro)
-- Mapas Mentais com IA instalada: botão 🧠 GERAR MAPA MENTAL COM IA que lê PDF/edital do esqueleto e gera mapa hierárquico automaticamente
-- 700 questões únicas variadas (VUNESP/FGV/FCC)
+CORREÇÃO:
+- Botão proeminente no TOPO do ESQUELETO: ➕ ADICIONAR EDITAL NA INTERFACE DO ESQUELETO
+- Botão amarelo grande com sombra, abre seletor PDF/TXT/DOC
+- Edital abre DENTRO do esqueleto com preview (nome, tamanho, conteúdo)
+- Depois vai automaticamente para aba DESOSSA EDITAL
+
+MANTIDO:
+- Rodapé destacado: inicio | ESQUELETO | SIMULADO | PROGRESSO | MAPAS (verde #0F3D1F borda amarela 4px)
+- Sub-abas PDF CONCURSOS e DESOSSA EDITAL
+- IA de mapas mentais instalada em MAPAS > GERAR MAPA MENTAL COM IA
+- 700 questões únicas VUNESP/FGV
 - Cores verde e amarelo profissionais
 - Sem tela branca
 
-Como usar IA mapas:
-1. Esqueleto > PDF CONCURSOS > adiciona PDF
-2. Mapas > GERAR MAPA MENTAL COM IA
-
-Para subir no GitHub: suba index.html + questoes.json
+Como subir: suba index.html + questoes.json no GitHub
