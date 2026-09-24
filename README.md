@@ -1,6 +1,6 @@
-# AREAS POLICIAIS V5 - FINAL
-- Interface V4 mantida (home e rodape)
-- Simulado com RESETAR - comecar do zero + barrinha reset
-- Mapas Mentais IA igual foto enviada (Realizacao de Pericia, Prazos, Cadeia de Custodia)
-- 3 cards proximos concursos
-- Desossa PDF no esqueleto
+# ÁREAS POLICIAIS V8.2 - 700 QUESTÕES ÚNICAS
+
+- Rodapé destacado verde e amarelo
+- Esqueleto profissional com PDF + Desossa edital dentro
+- 700 questões ÚNICAS variadas: 88 de cada matéria (Português, Penal, Constitucional, Proc Penal, Criminologia, Audiovisuais, Informática, Raciocínio)
+- Padrão VUNESP/FGV/FCC
