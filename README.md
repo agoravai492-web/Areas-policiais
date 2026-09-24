@@ -1,5 +1,4 @@
-# ÁREAS POLICIAIS
-
-App completo PM • PC • GCM • Perícia - SP 645 cidades
-Cores: verde/amarelo
-Deploy: GitHub Pages -> Branch main / root
+# AREAS POLICIAIS V4 FINAL
+Home limpa sem PDF, PDF so no Esqueleto
+Proximos Concursos 3 cards
+Progresso completo
