@@ -1,0 +1,36 @@
+{
+  "name": "Áreas Policiais",
+  "short_name": "Áreas Policiais",
+  "description": "App de estudos para áreas policiais com esqueleto, simulado e mapas mentais com IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F3D1F",
+  "theme_color": "#0F3D1F",
+  "icons": [
+    {
+      "src": "icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
